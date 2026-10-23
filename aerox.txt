@@ -1,15 +1,10 @@
---[[
-
-Sirius
-
-© 2026 Corridon Capital. 
-All Rights Reserved.
+--[[AeroX Executor 
 
 --]]
 
 --[[
 
-Sirius Pre-Hyperion Todo List
+AeroX Pre-Hyperion Todo List
 
 High Priority
  - Invisible, Godmode
